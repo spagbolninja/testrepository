@@ -1,0 +1,93 @@
+Script started on 2024-10-14 17:29:02+01:00 [TERM="rxvt-unicode-256color" TTY="/dev/pts/2" COLUMNS="210" LINES="59"]
+[?2004h]0;neohongkong@Thinkputer: ~[01;32mneohongkong@Thinkputer[00m:[01;34m~[00m$ c[Kcd dos[K[K[K?[K#[K/[K?[K~/dos.[K/dosboxstaging
+[?2004l[?2004h]0;neohongkong@Thinkputer: ~/dos/dosboxstaging[01;32mneohongkong@Thinkputer[00m:[01;34m~/dos/dosboxstaging[00m$ ./dosbox
+[?2004l[0m[2mdate       time         | 
+[0m[2m2024-10-14 17:29:28.603 | [0marguments: ./dosbox[0m
+[0m[2m2024-10-14 17:29:28.603 | [0mCurrent dir: /home/neohongkong/dos/dosboxstaging[0m
+[0m[2m2024-10-14 17:29:28.603 | [0mstderr verbosity: 0[0m
+[0m[2m2024-10-14 17:29:28.604 | [0m-----------------------------------[0m
+[0m[2m2024-10-14 17:29:28.604 | [0mdosbox-staging version 0.81.2[0m
+[0m[2m2024-10-14 17:29:28.604 | [0m---[0m
+[0m[2m2024-10-14 17:29:28.604 | [0mLOG: Loguru version 2.1.0 initialised[0m
+[0m[33m2024-10-14 17:29:28.605 | CONFIG: Setting 'machine = vgaonly' is deprecated, falling back to the alternate: 'machine = svga_paradise'[0m
+[0m[2m2024-10-14 17:29:28.605 | [0mCONFIG: Loaded primary config file '/home/neohongkong/.config/dosbox/dosbox-staging.conf'[0m
+[0m[2m2024-10-14 17:29:28.605 | [0mLANG: Using internal English language messages[0m
+[0m[2m2024-10-14 17:29:28.632 | [0mSDL: version 2.26.5 initialised (x11 video and pulseaudio audio)[0m
+[0m[2m2024-10-14 17:29:28.632 | [0mDISPLAY: Initialised 790x592 windowed mode using bilinear scaling on display-0[0m
+[0m[2m2024-10-14 17:29:28.792 | [0mOPENGL: Vendor: Intel[0m
+[0m[2m2024-10-14 17:29:28.792 | [0mOPENGL: Version: 2.1 Mesa 22.3.6[0m
+[0m[2m2024-10-14 17:29:28.792 | [0mOPENGL: GLSL version: 1.20[0m
+[0m[2m2024-10-14 17:29:28.792 | [0mOPENGL: NPOT textures supported[0m
+[0m[2m2024-10-14 17:29:28.793 | [0mRENDER: Using shader 'interpolation/sharp'[0m
+[0m[2m2024-10-14 17:29:28.793 | [0mVIDEO: Using the DOS video mode's frame rate[0m
+[0m[2m2024-10-14 17:29:28.806 | [0mMEMORY: Using 4096 DOS memory pages (16 MB) at address: 0x7f2798bfc010[0m
+[0m[2m2024-10-14 17:29:28.806 | [0mVIDEO: Initialised Paradise VGA 1A with 512 KB of DRAM supporting 25 modes[0m
+[0m[2m2024-10-14 17:29:28.807 | [0mVOODOO: Initialized with 4 MB of RAM, multithreading, and no bilinear filtering[0m
+[0m[2m2024-10-14 17:29:28.808 | [0mCAPTURE: Image capturer started[0m
+[0m[33m2024-10-14 17:29:28.808 | MOUSE: VirtualBox interface cannot work in a no-desktop environment[0m
+[0m[2m2024-10-14 17:29:28.810 | [0mMIXER: Negotiated 2-channel 48000 Hz audio of 512-frame blocks[0m
+[0m[2m2024-10-14 17:29:28.810 | [0mMIXER: Master compressor enabled[0m
+[0m[33m2024-10-14 17:29:28.813 | MIDI:ALSA: No available MIDI devices found[0m
+[0m[2m2024-10-14 17:29:28.813 | [0mMIDI: Can't find device: 'auto', MIDI is not available[0m
+[0m[2m2024-10-14 17:29:28.813 | [0mMPU-401: Running in intelligent mode on ports 330h and 331h[0m
+[0m[2m2024-10-14 17:29:28.813 | [0mOPL: Operating at 48000 Hz without resampling[0m
+[0m[2m2024-10-14 17:29:28.813 | [0mOPL: Running OPL3 on ports 220h and 388h[0m
+[0m[2m2024-10-14 17:29:28.813 | [0mOPL: Sound Blaster 16 OPL output filter enabled[0m
+[0m[2m2024-10-14 17:29:28.813 | [0mDMA: Initialised primary controller[0m
+[0m[2m2024-10-14 17:29:28.813 | [0mDMA: Initialised secondary controller[0m
+[0m[2m2024-10-14 17:29:28.813 | [0mSB: Operating at 22050 Hz and upsampling to the output rate[0m
+[0m[2m2024-10-14 17:29:28.814 | [0mSB16: Modern DAC output filter enabled[0m
+[0m[2m2024-10-14 17:29:28.814 | [0mSB16: Setting 'BLASTER' environment variable to 'A220 I7 D1 H5 T6'[0m
+[0m[2m2024-10-14 17:29:28.814 | [0mSB16: Running on port 220h, IRQ 7, DMA 1, and high DMA 5[0m
+[0m[2m2024-10-14 17:29:28.814 | [0mPCSPEAKER: Operating at 48000 Hz without resampling[0m
+[0m[2m2024-10-14 17:29:28.814 | [0mPCSPEAKER: Initialised discrete model[0m
+[0m[2m2024-10-14 17:29:28.814 | [0mPCSPEAKER: High-pass filter enabled (18 dB/oct at 120 Hz)[0m
+[0m[2m2024-10-14 17:29:28.814 | [0mPCSPEAKER: Low-pass filter enabled (12 dB/oct at 4800 Hz)[0m
+[0m[2m2024-10-14 17:29:28.814 | [0mMOUSE: Will be captured after the first left or right button click[0m
+[0m[2m2024-10-14 17:29:28.814 | [0mMOUSE: Middle button will capture/release the mouse (clicks not sent to the game/program)[0m
+[0m[2m2024-10-14 17:29:28.814 | [0mMOUSE (PS/2): Standard, 3 buttons[0m
+[0m[2m2024-10-14 17:29:28.823 | [0mDOS: Loaded modern locale for country 1, 'United States'[0m
+[0m[2m2024-10-14 17:29:28.823 | [0mSLIRP: Slirp version: 4.7.0[0m
+[0m[2m2024-10-14 17:29:28.823 | [0mSLIRP: Successfully initialized[0m
+[0m[2m2024-10-14 17:29:28.823 | [0mNE2000: Initialised on port 300h and IRQ 3[0m
+[0m[2m2024-10-14 17:29:28.824 | [0mCONFIG: Loaded auto-mounted drive config file 'resources/drives/y.conf'[0m
+[0m[2m2024-10-14 17:29:28.824 | [0mAUTOEXEC: Using autoexec from one or more joined sections[0m
+[0m[2m2024-10-14 17:29:28.856 | [0mMAPPER: No joysticks found[0m
+[0m[2m2024-10-14 17:29:28.857 | [0mMAPPER: Loaded default key bindings[0m
+[0m[2m2024-10-14 17:29:28.860 | [0mSDL: Window size initialized to 1067x800 pixels[0m
+[0m[2m2024-10-14 17:29:28.860 | [0mSDL: Using standard SDI (auto) display refresh rate of 60 Hz[0m
+[0m[2m2024-10-14 17:29:28.885 | [0mDISPLAY: VGA 720x400 16-colour text mode 03h at 70.087 Hz throttled VFR, scaled to 1067x800 pixels with 1:1.35 (20:27) pixel aspect ratio[0m
+[0m[2m2024-10-14 17:29:28.885 | [0mOPENGL: VSync state: adaptive[0m
+[0m[2m2024-10-14 17:29:28.886 | [0mMOUNT: Path 'resources/drives/y' found[0m
+[0m[2m2024-10-14 17:29:28.887 | [0mMOUNT: Path '/home/neohongkong/dos/' found[0m
+[0m[2m2024-10-14 17:29:46.866 | [0mDOSBox has switched to max cycles, because of the setting: cycles=auto.
+If the game runs too fast, try a fixed cycles amount in DOSBox's options.[0m
+[0m[2m2024-10-14 17:29:47.100 | [0mDISPLAY: VGA 320x200 256-colour graphics mode 13h at 70.086 Hz throttled VFR, scaled to 1067x800 pixels with 1:1.2 (5:6) pixel aspect ratio[0m
+[0m[2m2024-10-14 17:29:48.430 | [0mDISPLAY: VGA 720x400 16-colour text mode 03h at 70.087 Hz throttled VFR, scaled to 1067x800 pixels with 1:1.35 (20:27) pixel aspect ratio[0m
+[0m[2m2024-10-14 17:29:51.955 | [0mDISPLAY: VGA 320x200 256-colour graphics mode 13h at 70.086 Hz throttled VFR, scaled to 1067x800 pixels with 1:1.2 (5:6) pixel aspect ratio[0m
+[0m[2m2024-10-14 17:29:53.825 | [0mDISPLAY: VGA 720x400 16-colour text mode 03h at 70.087 Hz throttled VFR, scaled to 1067x800 pixels with 1:1.35 (20:27) pixel aspect ratio[0m
+[0m[2m2024-10-14 17:29:56.621 | [0mDISPLAY: VGA 320x200 256-colour graphics mode 13h at 70.086 Hz throttled VFR, scaled to 1067x800 pixels with 1:1.2 (5:6) pixel aspect ratio[0m
+[0m[2m2024-10-14 17:29:59.373 | [0mDISPLAY: VGA 720x400 16-colour text mode 03h at 70.087 Hz throttled VFR, scaled to 1067x800 pixels with 1:1.35 (20:27) pixel aspect ratio[0m
+[0m[2m2024-10-14 17:30:59.494 | [0mDISPLAY: VGA 320x200 256-colour graphics mode 13h at 70.086 Hz throttled VFR, scaled to 1067x800 pixels with 1:1.2 (5:6) pixel aspect ratio[0m
+[0m[2m2024-10-14 17:30:59.814 | [0mSB16: DSP was reset[0m
+[0m[2m2024-10-14 17:30:59.815 | [0mSB16: DSP was reset[0m
+[0m[2m2024-10-14 17:30:59.818 | [0mSB16: DSP was reset[0m
+[0m[2m2024-10-14 17:30:59.818 | [0mSB16: DSP was reset[0m
+[0m[2m2024-10-14 17:30:59.819 | [0mSB16: DSP was reset[0m
+[0m[2m2024-10-14 17:30:59.820 | [0mSB16: DSP was reset[0m
+[0m[2m2024-10-14 17:30:59.823 | [0mSB16: DSP was reset[0m
+[0m[2m2024-10-14 17:30:59.825 | [0mSB16: DSP was reset[0m
+[0m[2m2024-10-14 17:31:00.187 | [0mSB16: DSP was reset[0m
+[0m[2m2024-10-14 17:31:03.689 | [0mDISPLAY: VGA 720x400 16-colour text mode 03h at 70.087 Hz throttled VFR, scaled to 1067x800 pixels with 1:1.35 (20:27) pixel aspect ratio[0m
+[0m[2m2024-10-14 17:31:09.503 | [0mPCSPEAKER: Shutting down discrete model[0m
+[0m[2m2024-10-14 17:31:09.503 | [0mOPL: Shutting down OPL3[0m
+[0m[2m2024-10-14 17:31:09.503 | [0mSB16: Shutting down[0m
+[0m[2m2024-10-14 17:31:09.503 | [0mMPU-401: Shutting down[0m
+[0m[2m2024-10-14 17:31:09.504 | [0mCAPTURE: Image capturer shutting down[0m
+[0m[2m2024-10-14 17:31:09.504 | [0mDMA: Shutting down primary controller[0m
+[0m[2m2024-10-14 17:31:09.504 | [0mDMA: Shutting down secondary controller[0m
+[0m[2m2024-10-14 17:31:09.569 | [0matexit[0m
+[?2004h]0;neohongkong@Thinkputer: ~/dos/dosboxstaging[01;32mneohongkong@Thinkputer[00m:[01;34m~/dos/dosboxstaging[00m$ exit
+[?2004lexit
+
+Script done on 2024-10-14 17:31:40+01:00 [COMMAND_EXIT_CODE="0"]
