@@ -1,0 +1,40 @@
+Script started on 2024-10-14 17:16:53+01:00 [TERM="rxvt-unicode-256color" TTY="/dev/pts/1" COLUMNS="210" LINES="28"]
+[?2004h]0;neohongkong@Thinkputer: ~[01;32mneohongkong@Thinkputer[00m:[01;34m~[00m$ sleep 5; xwd -root [Kdo[K[K~/dos/dosbos[Kxstating[K[K[K[Kgi[Kg[Kn[King.[K/dosbox[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[Kc~/dos/dosboxstaging/d~/dos/dosboxstaging/ ~/dos/dosboxstaging/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;neohongkong@Thinkputer: ~/dos/dosboxstaging[01;32mneohongkong@Thinkputer[00m:[01;34m~/dos/dosboxstaging[00m$ ./dosbox
+[?2004l[0m[2mdate       time         | 
+[0m[2m2024-10-14 17:17:35.770 | [0marguments: ./dosbox[0m
+[0m[2m2024-10-14 17:17:35.770 | [0mCurrent dir: /home/neohongkong/dos/dosboxstaging[0m
+[0m[2m2024-10-14 17:17:35.770 | [0mstderr verbosity: 0[0m
+[0m[2m2024-10-14 17:17:35.770 | [0m-----------------------------------[0m
+[0m[2m2024-10-14 17:17:35.770 | [0mdosbox-staging version 0.81.2[0m
+[0m[2m2024-10-14 17:17:35.770 | [0m---[0m
+[0m[2m2024-10-14 17:17:35.770 | [0mLOG: Loguru version 2.1.0 initialised[0m
+[0m[33m2024-10-14 17:17:35.772 | CONFIG: Setting 'machine = vgaonly' is deprecated, falling back to the alternate: 'machine = svga_paradise'[0m
+[0m[2m2024-10-14 17:17:35.772 | [0mCONFIG: Loaded primary config file '/home/neohongkong/.config/dosbox/dosbox-staging.conf'[0m
+[0m[2m2024-10-14 17:17:35.772 | [0mLANG: Using internal English language messages[0m
+[0m[2m2024-10-14 17:17:35.802 | [0mSDL: version 2.26.5 initialised (x11 video and pulseaudio audio)[0m
+[0m[2m2024-10-14 17:17:35.803 | [0mDISPLAY: Initialised 790x592 windowed mode using bilinear scaling on display-0[0m
+[0m[2m2024-10-14 17:17:36.003 | [0mOPENGL: Vendor: Intel[0m
+[0m[2m2024-10-14 17:17:36.003 | [0mOPENGL: Version: 2.1 Mesa 22.3.6[0m
+[0m[2m2024-10-14 17:17:36.003 | [0mOPENGL: GLSL version: 1.20[0m
+[0m[2m2024-10-14 17:17:36.003 | [0mOPENGL: NPOT textures supported[0m
+[0m[2m2024-10-14 17:17:36.004 | [0mRENDER: Using shader 'interpolation/sharp'[0m
+[0m[2m2024-10-14 17:17:36.004 | [0mVIDEO: Using the DOS video mode's frame rate[0m
+[0m[2m2024-10-14 17:17:36.017 | [0mMEMORY: Using 4096 DOS memory pages (16 MB) at address: 0x7f98dafff010[0m
+[0m[2m2024-10-14 17:17:36.018 | [0mVIDEO: Initialised Paradise VGA 1A with 512 KB of DRAM supporting 25 modes[0m
+[0m[2m2024-10-14 17:17:36.019 | [0mVOODOO: Initialized with 4 MB of RAM, multithreading, and no bilinear filtering[0m
+[0m[2m2024-10-14 17:17:36.020 | [0mCAPTURE: Image capturer started[0m
+[0m[33m2024-10-14 17:17:36.020 | MOUSE: VirtualBox interface cannot work in a no-desktop environment[0m
+[0m[2m2024-10-14 17:17:36.050 | [0mMIXER: Negotiated 2-channel 48000 Hz audio of 512-frame blocks[0m
+[0m[2m2024-10-14 17:17:36.050 | [0mMIXER: Master compressor enabled[0m
+[0m[33m2024-10-14 17:17:36.053 | MIDI:ALSA: No available MIDI devices found[0m
+[0m[2m2024-10-14 17:17:36.053 | [0mMIDI: Can't find device: 'auto', MIDI is not available[0m
+[0m[2m2024-10-14 17:17:36.053 | [0mMPU-401: Running in intelligent mode on ports 330h and 331h[0m
+[0m[2m2024-10-14 17:17:36.054 | [0mOPL: Operating at 48000 Hz without resampling[0m
+[0m[2m2024-10-14 17:17:36.054 | [0mOPL: Running OPL3 on ports 220h and 388h[0m
+[0m[2m2024-10-14 17:17:36.054 | [0mOPL: Sound Blaster 16 OPL output filter enabled[0m
+[0m[2m2024-10-14 17:17:36.054 | [0mDMA: Initialised primary controller[0m
+[0m[2m2024-10-14 17:17:36.054 | [0mDMA: Initialised secondary controller[0m
+[0m[2m2024-10-14 17:17:36.054 | [0mSB: Operating at 22050 Hz and upsampling to the output rate[0m
+[0m[2m2024-10-14 17:17:36.054 | [0mSB16: Modern DAC output filter enabled[0m
+[0m[2m2024-10-14 17:17:36.054 | [0mSB16: Setting 'BLASTE
